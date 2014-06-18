@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.app-main-container {
+   padding-bottom: 40px;
+}
