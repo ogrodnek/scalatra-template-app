@@ -1,10 +1,12 @@
 # Template App #
 
+sbt/scalatra/bootstrap/angular template app.
+
+
 ## Build & Run ##
 
 ```sh
-$ cd Template_App
-$ ./sbt
+$ sbt
 > container:start
 > browse
 ```
